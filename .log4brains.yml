@@ -1,0 +1,5 @@
+project:
+  name: react-msw-example-app
+  tz: Europe/Lisbon
+  adrFolder: /docs/adr
+  packages: []
